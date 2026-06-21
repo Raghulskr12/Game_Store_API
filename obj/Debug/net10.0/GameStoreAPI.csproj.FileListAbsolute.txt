@@ -31,3 +31,4 @@ D:\.net\WebApplication1\GameStoreAPI\obj\Debug\net10.0\refint\GameStoreAPI.dll
 D:\.net\WebApplication1\GameStoreAPI\obj\Debug\net10.0\GameStoreAPI.pdb
 D:\.net\WebApplication1\GameStoreAPI\obj\Debug\net10.0\GameStoreAPI.genruntimeconfig.cache
 D:\.net\WebApplication1\GameStoreAPI\obj\Debug\net10.0\ref\GameStoreAPI.dll
+D:\.net\WebApplication1\GameStoreAPI\obj\Debug\net10.0\GameStoreAPI.sourcelink.json
